@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amantes-sin-destino/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Amantes sin destino](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amantes-sin-destino/) |
+| **Get License** | [Request Licensing for Amantes sin destino](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amantes-sin-destino/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `01fbe935d277234198c24cff2dc0dfba277e5f67b3b488312a6d13e4cecbcece` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `eeb91f78120ecad29b1773617daf9ca46726c15c9479844c9c1bfd9e29c74444` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

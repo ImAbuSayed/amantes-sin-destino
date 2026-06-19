@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Amantes 
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T00:58:09.001890 | `v1` | `01fbe935d277234198c24cff2dc0dfba277e5f67b3b488312a6d13e4cecbcece` | `58cec13bf8c59cc516b782f9a823e893965bbc0d81b7c97616c02d596f5f8b7b` | `2026-06-20_amantes-sin-destino-v1.txt` |
+| 2026-06-20T01:11:10.224677 | `v2` | `eeb91f78120ecad29b1773617daf9ca46726c15c9479844c9c1bfd9e29c74444` | `969e712de0a766392abceacd56abdb4b20485d521b43bc14ff057c6174d8b8ab` | `2026-06-20_amantes-sin-destino-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
