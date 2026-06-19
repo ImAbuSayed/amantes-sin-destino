@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amantes-sin-destino/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Amantes sin destino](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amantes-sin-destino/) |
+| **Get License** | [Request Licensing for Amantes sin destino](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amantes-sin-destino/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby tú me miras y el mundo se frena
+> Bailando con clase, rompiendo la escena
+> Somos dos amantes sin un paradero
+> Esta noche oscura yo soy tu lucero
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
