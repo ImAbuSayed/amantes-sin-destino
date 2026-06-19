@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amantes sin destino
+
+This log tracks the cryptographic history and versioning for the song **Amantes sin destino** (amantes-sin-destino).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T00:58:09.001890 | `v1` | `01fbe935d277234198c24cff2dc0dfba277e5f67b3b488312a6d13e4cecbcece` | `58cec13bf8c59cc516b782f9a823e893965bbc0d81b7c97616c02d596f5f8b7b` | `2026-06-20_amantes-sin-destino-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
